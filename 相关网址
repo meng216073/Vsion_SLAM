@@ -1,0 +1,6 @@
+1.SLAM第一讲：对SLAM的从传感器-视觉里程计（VO）-后端优化-建图-回环检测的整个过程进行了概述
+  https://www.leiphone.com/news/201609/iAe3f8qmRHXavgSl.html
+2.3D-2D空间点的转换求相机的位姿PnP问题：http://blog.csdn.net/cocoaqin/article/details/77841261
+3.2D-2D相机位姿估计：https://www.jianshu.com/p/fbf56587a268
+4.OpenCV中矩阵类详解之一：Mat：http://blog.csdn.net/holybin/article/details/17751063
+  介绍的更好： http://blog.csdn.net/CV_Jason/article/details/54928920
