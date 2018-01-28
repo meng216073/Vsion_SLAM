@@ -4,3 +4,12 @@
 3.2D-2D相机位姿估计：https://www.jianshu.com/p/fbf56587a268
 4.OpenCV中矩阵类详解之一：Mat：http://blog.csdn.net/holybin/article/details/17751063
   介绍的更好： http://blog.csdn.net/CV_Jason/article/details/54928920
+5.OpenCV提取ORB特征并匹配:https://www.jianshu.com/p/420f8211d1cb
+  特征点由关键点（Key-point）和描述子（Descriptor）两部分组成。比如，提取ORB特征其实包括了提取关键点和计算描述子两件事情。
+
+  历史上，SIFT特征和SURF特征都是非常常用的特征，SIFT特征以精确著称，但计算量极大，无法在CPU上实时计算。
+  SURF特征降低了SIFT的精确度，但提高了性能。而ORB特征是目前计算最快的特征，非常适合于实时SLAM，因此受到广大研究者的喜爱。
+6.迭代最近点方法ICP：https://www.zybuluo.com/markheng/note/651416
+    两个小人的匹配代码：http://www.cnblogs.com/sddai/p/6129437.html
+    PCL中的点云配准（Registration）ICP算法：http://blog.csdn.net/wokaowokaowokao12345/article/details/73741957
+    
