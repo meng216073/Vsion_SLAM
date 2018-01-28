@@ -12,4 +12,10 @@
 6.迭代最近点方法ICP：https://www.zybuluo.com/markheng/note/651416
     两个小人的匹配代码：http://www.cnblogs.com/sddai/p/6129437.html
     PCL中的点云配准（Registration）ICP算法：http://blog.csdn.net/wokaowokaowokao12345/article/details/73741957
-    
+   http://blog.csdn.net/yang_q_x/article/details/52326953
+   点云匹配系列文章：http://www.cnblogs.com/yhlx125/p/5234156.html
+   http://www.voidcn.com/article/p-ucaaliex-ov.html
+7.如何逐步匹配多幅点云(1)也有代码很详细：http://www.pclcn.org/study/shownews.php?id=78&lang=cn
+8.原创————NDT 算法（与ICP对比）和一些常见配准算法（重点看一下）：http://ghx0x0.github.io/2014/12/30/NDT-match/
+9.SLAM最终话：视觉里程计：https://www.leiphone.com/news/201609/Qj6uJhaywpBD8vdq.html
+10.半闲居士视觉SLAM十四讲：http://blog.csdn.net/youngpan1101/article/details/70193823
